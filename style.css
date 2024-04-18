@@ -1,0 +1,33 @@
+/* Style page for customization of main html. */
+/*This is the background color/gradient used for body */
+body{
+	background: -webkit-linear-gradient(right, #ff3300, #000000, #ff6600);
+	background: -moz-linear-gradient(right, #ff6600, #000000, #ff6600);
+	background: -o-linear-gradient(right, #ff6600, #000000, #ff6600);
+	background: linear-gradient(to right, #ff6600, #000000, #ff6600);
+	color: #00FF00;
+}
+/* Header 1's text color/formatting */
+h1{
+	color: #000000;
+	text-shadow:0 0 2px rgb(255, 255, 255);
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* Header 2's text color/formatting */
+h2{
+	color: #000000;
+	text-shadow:0 0 2px rgb(255, 255, 255);
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* Header 3's Text color/formatting */
+h3{
+	color: #030000;
+	text-shadow:0 0 2px rgb(255, 255, 255);
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* All body text color/formatting */
+p{
+	color: #ffffff;
+	text-shadow:0 0 2px purple;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
